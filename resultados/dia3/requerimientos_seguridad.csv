@@ -1,0 +1,101 @@
+id_riesgo,activo_id,activo_nombre,amenaza_id,amenaza_nombre,probabilidad,impacto,valor_cia,nivel_riesgo,clasificacion,requiere_control
+R001,ACT001,Servidor de Base de Datos Principal,A001,Ataque de Phishing,4,5,9,180,Crítico,True
+R002,ACT002,Base de Datos de Clientes,A001,Ataque de Phishing,4,5,9,180,Crítico,True
+R003,ACT003,Sistema ERP,A001,Ataque de Phishing,4,5,9,180,Crítico,True
+R004,ACT004,Red Corporativa,A001,Ataque de Phishing,4,5,8,160,Crítico,True
+R005,ACT005,Correo Electrónico Corporativo,A001,Ataque de Phishing,4,5,7,140,Crítico,True
+R006,ACT006,Estaciones de Trabajo,A001,Ataque de Phishing,4,4,6,96,Crítico,True
+R007,ACT007,Documentación Técnica,A001,Ataque de Phishing,4,4,7,112,Crítico,True
+R008,ACT008,Sistema de Respaldos,A001,Ataque de Phishing,4,5,8,160,Crítico,True
+R009,ACT009,Portal Web Público,A001,Ataque de Phishing,4,4,7,112,Crítico,True
+R010,ACT010,Personal TI Especializado,A001,Ataque de Phishing,4,5,8,160,Crítico,True
+R011,ACT001,Servidor de Base de Datos Principal,A002,Malware/Ransomware,3,5,9,135,Crítico,True
+R012,ACT002,Base de Datos de Clientes,A002,Malware/Ransomware,3,5,9,135,Crítico,True
+R013,ACT003,Sistema ERP,A002,Malware/Ransomware,3,5,9,135,Crítico,True
+R014,ACT004,Red Corporativa,A002,Malware/Ransomware,3,4,8,96,Crítico,True
+R015,ACT005,Correo Electrónico Corporativo,A002,Malware/Ransomware,3,4,7,84,Crítico,True
+R016,ACT006,Estaciones de Trabajo,A002,Malware/Ransomware,3,3,6,54,Crítico,True
+R017,ACT007,Documentación Técnica,A002,Malware/Ransomware,3,3,7,63,Crítico,True
+R018,ACT008,Sistema de Respaldos,A002,Malware/Ransomware,3,4,8,96,Crítico,True
+R019,ACT009,Portal Web Público,A002,Malware/Ransomware,3,3,7,63,Crítico,True
+R020,ACT010,Personal TI Especializado,A002,Malware/Ransomware,3,5,8,120,Crítico,True
+R021,ACT001,Servidor de Base de Datos Principal,A003,Acceso No Autorizado,3,5,9,135,Crítico,True
+R022,ACT002,Base de Datos de Clientes,A003,Acceso No Autorizado,3,5,9,135,Crítico,True
+R023,ACT003,Sistema ERP,A003,Acceso No Autorizado,3,5,9,135,Crítico,True
+R024,ACT004,Red Corporativa,A003,Acceso No Autorizado,3,5,8,120,Crítico,True
+R025,ACT005,Correo Electrónico Corporativo,A003,Acceso No Autorizado,3,5,7,105,Crítico,True
+R026,ACT006,Estaciones de Trabajo,A003,Acceso No Autorizado,3,4,6,72,Crítico,True
+R027,ACT007,Documentación Técnica,A003,Acceso No Autorizado,3,4,7,84,Crítico,True
+R028,ACT008,Sistema de Respaldos,A003,Acceso No Autorizado,3,5,8,120,Crítico,True
+R029,ACT009,Portal Web Público,A003,Acceso No Autorizado,3,4,7,84,Crítico,True
+R030,ACT010,Personal TI Especializado,A003,Acceso No Autorizado,3,5,8,120,Crítico,True
+R031,ACT001,Servidor de Base de Datos Principal,A004,Fallo de Hardware,2,5,9,90,Crítico,True
+R032,ACT002,Base de Datos de Clientes,A004,Fallo de Hardware,2,5,9,90,Crítico,True
+R033,ACT003,Sistema ERP,A004,Fallo de Hardware,2,5,9,90,Crítico,True
+R034,ACT004,Red Corporativa,A004,Fallo de Hardware,2,4,8,64,Crítico,True
+R035,ACT005,Correo Electrónico Corporativo,A004,Fallo de Hardware,2,4,7,56,Crítico,True
+R036,ACT006,Estaciones de Trabajo,A004,Fallo de Hardware,2,3,6,36,Crítico,True
+R037,ACT007,Documentación Técnica,A004,Fallo de Hardware,2,3,7,42,Crítico,True
+R038,ACT008,Sistema de Respaldos,A004,Fallo de Hardware,2,4,8,64,Crítico,True
+R039,ACT009,Portal Web Público,A004,Fallo de Hardware,2,3,7,42,Crítico,True
+R040,ACT010,Personal TI Especializado,A004,Fallo de Hardware,2,5,8,80,Crítico,True
+R041,ACT001,Servidor de Base de Datos Principal,A005,Error Humano,4,4,9,144,Crítico,True
+R042,ACT002,Base de Datos de Clientes,A005,Error Humano,4,4,9,144,Crítico,True
+R043,ACT003,Sistema ERP,A005,Error Humano,4,4,9,144,Crítico,True
+R044,ACT004,Red Corporativa,A005,Error Humano,4,3,8,96,Crítico,True
+R045,ACT005,Correo Electrónico Corporativo,A005,Error Humano,4,3,7,84,Crítico,True
+R046,ACT006,Estaciones de Trabajo,A005,Error Humano,4,2,6,48,Crítico,True
+R047,ACT007,Documentación Técnica,A005,Error Humano,4,2,7,56,Crítico,True
+R048,ACT008,Sistema de Respaldos,A005,Error Humano,4,3,8,96,Crítico,True
+R049,ACT009,Portal Web Público,A005,Error Humano,4,2,7,56,Crítico,True
+R050,ACT010,Personal TI Especializado,A005,Error Humano,4,4,8,128,Crítico,True
+R051,ACT001,Servidor de Base de Datos Principal,A006,Denegación de Servicio (DoS),3,5,9,135,Crítico,True
+R052,ACT002,Base de Datos de Clientes,A006,Denegación de Servicio (DoS),3,5,9,135,Crítico,True
+R053,ACT003,Sistema ERP,A006,Denegación de Servicio (DoS),3,5,9,135,Crítico,True
+R054,ACT004,Red Corporativa,A006,Denegación de Servicio (DoS),3,4,8,96,Crítico,True
+R055,ACT005,Correo Electrónico Corporativo,A006,Denegación de Servicio (DoS),3,4,7,84,Crítico,True
+R056,ACT006,Estaciones de Trabajo,A006,Denegación de Servicio (DoS),3,3,6,54,Crítico,True
+R057,ACT007,Documentación Técnica,A006,Denegación de Servicio (DoS),3,3,7,63,Crítico,True
+R058,ACT008,Sistema de Respaldos,A006,Denegación de Servicio (DoS),3,4,8,96,Crítico,True
+R059,ACT009,Portal Web Público,A006,Denegación de Servicio (DoS),3,3,7,63,Crítico,True
+R060,ACT010,Personal TI Especializado,A006,Denegación de Servicio (DoS),3,5,8,120,Crítico,True
+R061,ACT001,Servidor de Base de Datos Principal,A007,Fuga de Información,3,5,9,135,Crítico,True
+R062,ACT002,Base de Datos de Clientes,A007,Fuga de Información,3,5,9,135,Crítico,True
+R063,ACT003,Sistema ERP,A007,Fuga de Información,3,5,9,135,Crítico,True
+R064,ACT004,Red Corporativa,A007,Fuga de Información,3,4,8,96,Crítico,True
+R065,ACT005,Correo Electrónico Corporativo,A007,Fuga de Información,3,4,7,84,Crítico,True
+R066,ACT006,Estaciones de Trabajo,A007,Fuga de Información,3,3,6,54,Crítico,True
+R067,ACT007,Documentación Técnica,A007,Fuga de Información,3,3,7,63,Crítico,True
+R068,ACT008,Sistema de Respaldos,A007,Fuga de Información,3,4,8,96,Crítico,True
+R069,ACT009,Portal Web Público,A007,Fuga de Información,3,3,7,63,Crítico,True
+R070,ACT010,Personal TI Especializado,A007,Fuga de Información,3,5,8,120,Crítico,True
+R071,ACT001,Servidor de Base de Datos Principal,A008,Interrupción de Servicios Públicos,2,5,9,90,Crítico,True
+R072,ACT002,Base de Datos de Clientes,A008,Interrupción de Servicios Públicos,2,5,9,90,Crítico,True
+R073,ACT003,Sistema ERP,A008,Interrupción de Servicios Públicos,2,5,9,90,Crítico,True
+R074,ACT004,Red Corporativa,A008,Interrupción de Servicios Públicos,2,4,8,64,Crítico,True
+R075,ACT005,Correo Electrónico Corporativo,A008,Interrupción de Servicios Públicos,2,4,7,56,Crítico,True
+R076,ACT006,Estaciones de Trabajo,A008,Interrupción de Servicios Públicos,2,3,6,36,Crítico,True
+R077,ACT007,Documentación Técnica,A008,Interrupción de Servicios Públicos,2,3,7,42,Crítico,True
+R078,ACT008,Sistema de Respaldos,A008,Interrupción de Servicios Públicos,2,4,8,64,Crítico,True
+R079,ACT009,Portal Web Público,A008,Interrupción de Servicios Públicos,2,3,7,42,Crítico,True
+R080,ACT010,Personal TI Especializado,A008,Interrupción de Servicios Públicos,2,5,8,80,Crítico,True
+R081,ACT001,Servidor de Base de Datos Principal,A009,Desastre Natural,1,5,9,45,Crítico,True
+R082,ACT002,Base de Datos de Clientes,A009,Desastre Natural,1,5,9,45,Crítico,True
+R083,ACT003,Sistema ERP,A009,Desastre Natural,1,5,9,45,Crítico,True
+R084,ACT004,Red Corporativa,A009,Desastre Natural,1,5,8,40,Crítico,True
+R085,ACT005,Correo Electrónico Corporativo,A009,Desastre Natural,1,5,7,35,Crítico,True
+R086,ACT006,Estaciones de Trabajo,A009,Desastre Natural,1,5,6,30,Crítico,True
+R087,ACT007,Documentación Técnica,A009,Desastre Natural,1,5,7,35,Crítico,True
+R088,ACT008,Sistema de Respaldos,A009,Desastre Natural,1,5,8,40,Crítico,True
+R089,ACT009,Portal Web Público,A009,Desastre Natural,1,5,7,35,Crítico,True
+R090,ACT010,Personal TI Especializado,A009,Desastre Natural,1,5,8,40,Crítico,True
+R091,ACT001,Servidor de Base de Datos Principal,A010,Insider Threat,2,5,9,90,Crítico,True
+R092,ACT002,Base de Datos de Clientes,A010,Insider Threat,2,5,9,90,Crítico,True
+R093,ACT003,Sistema ERP,A010,Insider Threat,2,5,9,90,Crítico,True
+R094,ACT004,Red Corporativa,A010,Insider Threat,2,5,8,80,Crítico,True
+R095,ACT005,Correo Electrónico Corporativo,A010,Insider Threat,2,5,7,70,Crítico,True
+R096,ACT006,Estaciones de Trabajo,A010,Insider Threat,2,4,6,48,Crítico,True
+R097,ACT007,Documentación Técnica,A010,Insider Threat,2,4,7,56,Crítico,True
+R098,ACT008,Sistema de Respaldos,A010,Insider Threat,2,5,8,80,Crítico,True
+R099,ACT009,Portal Web Público,A010,Insider Threat,2,4,7,56,Crítico,True
+R100,ACT010,Personal TI Especializado,A010,Insider Threat,2,5,8,80,Crítico,True

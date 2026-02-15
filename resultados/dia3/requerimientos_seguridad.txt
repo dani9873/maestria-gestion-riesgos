@@ -1,0 +1,2313 @@
+================================================================================
+DOCUMENTO DE REQUERIMIENTOS DE SEGURIDAD
+Basado en ISO/IEC 27005 y ISO 27001
+================================================================================
+
+Fecha de generación: 2026-02-15 17:41:34
+Total de requerimientos: 100
+
+
+================================================================================
+RIESGOS CRÍTICOS
+================================================================================
+
+REQUERIMIENTO R001
+--------------------------------------------------------------------------------
+Activo Afectado: Servidor de Base de Datos Principal (ACT001)
+Amenaza: Ataque de Phishing (A001)
+Nivel de Riesgo: 180 (Crítico)
+Probabilidad: 4/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Ataque de Phishing' sobre el activo
+'Servidor de Base de Datos Principal'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R002
+--------------------------------------------------------------------------------
+Activo Afectado: Base de Datos de Clientes (ACT002)
+Amenaza: Ataque de Phishing (A001)
+Nivel de Riesgo: 180 (Crítico)
+Probabilidad: 4/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Ataque de Phishing' sobre el activo
+'Base de Datos de Clientes'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R003
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema ERP (ACT003)
+Amenaza: Ataque de Phishing (A001)
+Nivel de Riesgo: 180 (Crítico)
+Probabilidad: 4/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Ataque de Phishing' sobre el activo
+'Sistema ERP'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R004
+--------------------------------------------------------------------------------
+Activo Afectado: Red Corporativa (ACT004)
+Amenaza: Ataque de Phishing (A001)
+Nivel de Riesgo: 160 (Crítico)
+Probabilidad: 4/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Ataque de Phishing' sobre el activo
+'Red Corporativa'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R005
+--------------------------------------------------------------------------------
+Activo Afectado: Correo Electrónico Corporativo (ACT005)
+Amenaza: Ataque de Phishing (A001)
+Nivel de Riesgo: 140 (Crítico)
+Probabilidad: 4/5
+Impacto: 5/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Ataque de Phishing' sobre el activo
+'Correo Electrónico Corporativo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R006
+--------------------------------------------------------------------------------
+Activo Afectado: Estaciones de Trabajo (ACT006)
+Amenaza: Ataque de Phishing (A001)
+Nivel de Riesgo: 96 (Crítico)
+Probabilidad: 4/5
+Impacto: 4/5
+Valor CIA del Activo: 6/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Ataque de Phishing' sobre el activo
+'Estaciones de Trabajo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R007
+--------------------------------------------------------------------------------
+Activo Afectado: Documentación Técnica (ACT007)
+Amenaza: Ataque de Phishing (A001)
+Nivel de Riesgo: 112 (Crítico)
+Probabilidad: 4/5
+Impacto: 4/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Ataque de Phishing' sobre el activo
+'Documentación Técnica'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R008
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema de Respaldos (ACT008)
+Amenaza: Ataque de Phishing (A001)
+Nivel de Riesgo: 160 (Crítico)
+Probabilidad: 4/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Ataque de Phishing' sobre el activo
+'Sistema de Respaldos'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R009
+--------------------------------------------------------------------------------
+Activo Afectado: Portal Web Público (ACT009)
+Amenaza: Ataque de Phishing (A001)
+Nivel de Riesgo: 112 (Crítico)
+Probabilidad: 4/5
+Impacto: 4/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Ataque de Phishing' sobre el activo
+'Portal Web Público'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R010
+--------------------------------------------------------------------------------
+Activo Afectado: Personal TI Especializado (ACT010)
+Amenaza: Ataque de Phishing (A001)
+Nivel de Riesgo: 160 (Crítico)
+Probabilidad: 4/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Ataque de Phishing' sobre el activo
+'Personal TI Especializado'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R011
+--------------------------------------------------------------------------------
+Activo Afectado: Servidor de Base de Datos Principal (ACT001)
+Amenaza: Malware/Ransomware (A002)
+Nivel de Riesgo: 135 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Malware/Ransomware' sobre el activo
+'Servidor de Base de Datos Principal'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R012
+--------------------------------------------------------------------------------
+Activo Afectado: Base de Datos de Clientes (ACT002)
+Amenaza: Malware/Ransomware (A002)
+Nivel de Riesgo: 135 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Malware/Ransomware' sobre el activo
+'Base de Datos de Clientes'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R013
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema ERP (ACT003)
+Amenaza: Malware/Ransomware (A002)
+Nivel de Riesgo: 135 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Malware/Ransomware' sobre el activo
+'Sistema ERP'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R014
+--------------------------------------------------------------------------------
+Activo Afectado: Red Corporativa (ACT004)
+Amenaza: Malware/Ransomware (A002)
+Nivel de Riesgo: 96 (Crítico)
+Probabilidad: 3/5
+Impacto: 4/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Malware/Ransomware' sobre el activo
+'Red Corporativa'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R015
+--------------------------------------------------------------------------------
+Activo Afectado: Correo Electrónico Corporativo (ACT005)
+Amenaza: Malware/Ransomware (A002)
+Nivel de Riesgo: 84 (Crítico)
+Probabilidad: 3/5
+Impacto: 4/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Malware/Ransomware' sobre el activo
+'Correo Electrónico Corporativo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R016
+--------------------------------------------------------------------------------
+Activo Afectado: Estaciones de Trabajo (ACT006)
+Amenaza: Malware/Ransomware (A002)
+Nivel de Riesgo: 54 (Crítico)
+Probabilidad: 3/5
+Impacto: 3/5
+Valor CIA del Activo: 6/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Malware/Ransomware' sobre el activo
+'Estaciones de Trabajo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R017
+--------------------------------------------------------------------------------
+Activo Afectado: Documentación Técnica (ACT007)
+Amenaza: Malware/Ransomware (A002)
+Nivel de Riesgo: 63 (Crítico)
+Probabilidad: 3/5
+Impacto: 3/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Malware/Ransomware' sobre el activo
+'Documentación Técnica'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R018
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema de Respaldos (ACT008)
+Amenaza: Malware/Ransomware (A002)
+Nivel de Riesgo: 96 (Crítico)
+Probabilidad: 3/5
+Impacto: 4/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Malware/Ransomware' sobre el activo
+'Sistema de Respaldos'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R019
+--------------------------------------------------------------------------------
+Activo Afectado: Portal Web Público (ACT009)
+Amenaza: Malware/Ransomware (A002)
+Nivel de Riesgo: 63 (Crítico)
+Probabilidad: 3/5
+Impacto: 3/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Malware/Ransomware' sobre el activo
+'Portal Web Público'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R020
+--------------------------------------------------------------------------------
+Activo Afectado: Personal TI Especializado (ACT010)
+Amenaza: Malware/Ransomware (A002)
+Nivel de Riesgo: 120 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Malware/Ransomware' sobre el activo
+'Personal TI Especializado'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R021
+--------------------------------------------------------------------------------
+Activo Afectado: Servidor de Base de Datos Principal (ACT001)
+Amenaza: Acceso No Autorizado (A003)
+Nivel de Riesgo: 135 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Acceso No Autorizado' sobre el activo
+'Servidor de Base de Datos Principal'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R022
+--------------------------------------------------------------------------------
+Activo Afectado: Base de Datos de Clientes (ACT002)
+Amenaza: Acceso No Autorizado (A003)
+Nivel de Riesgo: 135 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Acceso No Autorizado' sobre el activo
+'Base de Datos de Clientes'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R023
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema ERP (ACT003)
+Amenaza: Acceso No Autorizado (A003)
+Nivel de Riesgo: 135 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Acceso No Autorizado' sobre el activo
+'Sistema ERP'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R024
+--------------------------------------------------------------------------------
+Activo Afectado: Red Corporativa (ACT004)
+Amenaza: Acceso No Autorizado (A003)
+Nivel de Riesgo: 120 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Acceso No Autorizado' sobre el activo
+'Red Corporativa'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R025
+--------------------------------------------------------------------------------
+Activo Afectado: Correo Electrónico Corporativo (ACT005)
+Amenaza: Acceso No Autorizado (A003)
+Nivel de Riesgo: 105 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Acceso No Autorizado' sobre el activo
+'Correo Electrónico Corporativo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R026
+--------------------------------------------------------------------------------
+Activo Afectado: Estaciones de Trabajo (ACT006)
+Amenaza: Acceso No Autorizado (A003)
+Nivel de Riesgo: 72 (Crítico)
+Probabilidad: 3/5
+Impacto: 4/5
+Valor CIA del Activo: 6/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Acceso No Autorizado' sobre el activo
+'Estaciones de Trabajo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R027
+--------------------------------------------------------------------------------
+Activo Afectado: Documentación Técnica (ACT007)
+Amenaza: Acceso No Autorizado (A003)
+Nivel de Riesgo: 84 (Crítico)
+Probabilidad: 3/5
+Impacto: 4/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Acceso No Autorizado' sobre el activo
+'Documentación Técnica'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R028
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema de Respaldos (ACT008)
+Amenaza: Acceso No Autorizado (A003)
+Nivel de Riesgo: 120 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Acceso No Autorizado' sobre el activo
+'Sistema de Respaldos'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R029
+--------------------------------------------------------------------------------
+Activo Afectado: Portal Web Público (ACT009)
+Amenaza: Acceso No Autorizado (A003)
+Nivel de Riesgo: 84 (Crítico)
+Probabilidad: 3/5
+Impacto: 4/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Acceso No Autorizado' sobre el activo
+'Portal Web Público'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R030
+--------------------------------------------------------------------------------
+Activo Afectado: Personal TI Especializado (ACT010)
+Amenaza: Acceso No Autorizado (A003)
+Nivel de Riesgo: 120 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Acceso No Autorizado' sobre el activo
+'Personal TI Especializado'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R031
+--------------------------------------------------------------------------------
+Activo Afectado: Servidor de Base de Datos Principal (ACT001)
+Amenaza: Fallo de Hardware (A004)
+Nivel de Riesgo: 90 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fallo de Hardware' sobre el activo
+'Servidor de Base de Datos Principal'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R032
+--------------------------------------------------------------------------------
+Activo Afectado: Base de Datos de Clientes (ACT002)
+Amenaza: Fallo de Hardware (A004)
+Nivel de Riesgo: 90 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fallo de Hardware' sobre el activo
+'Base de Datos de Clientes'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R033
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema ERP (ACT003)
+Amenaza: Fallo de Hardware (A004)
+Nivel de Riesgo: 90 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fallo de Hardware' sobre el activo
+'Sistema ERP'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R034
+--------------------------------------------------------------------------------
+Activo Afectado: Red Corporativa (ACT004)
+Amenaza: Fallo de Hardware (A004)
+Nivel de Riesgo: 64 (Crítico)
+Probabilidad: 2/5
+Impacto: 4/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fallo de Hardware' sobre el activo
+'Red Corporativa'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R035
+--------------------------------------------------------------------------------
+Activo Afectado: Correo Electrónico Corporativo (ACT005)
+Amenaza: Fallo de Hardware (A004)
+Nivel de Riesgo: 56 (Crítico)
+Probabilidad: 2/5
+Impacto: 4/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fallo de Hardware' sobre el activo
+'Correo Electrónico Corporativo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R036
+--------------------------------------------------------------------------------
+Activo Afectado: Estaciones de Trabajo (ACT006)
+Amenaza: Fallo de Hardware (A004)
+Nivel de Riesgo: 36 (Crítico)
+Probabilidad: 2/5
+Impacto: 3/5
+Valor CIA del Activo: 6/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fallo de Hardware' sobre el activo
+'Estaciones de Trabajo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R037
+--------------------------------------------------------------------------------
+Activo Afectado: Documentación Técnica (ACT007)
+Amenaza: Fallo de Hardware (A004)
+Nivel de Riesgo: 42 (Crítico)
+Probabilidad: 2/5
+Impacto: 3/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fallo de Hardware' sobre el activo
+'Documentación Técnica'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R038
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema de Respaldos (ACT008)
+Amenaza: Fallo de Hardware (A004)
+Nivel de Riesgo: 64 (Crítico)
+Probabilidad: 2/5
+Impacto: 4/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fallo de Hardware' sobre el activo
+'Sistema de Respaldos'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R039
+--------------------------------------------------------------------------------
+Activo Afectado: Portal Web Público (ACT009)
+Amenaza: Fallo de Hardware (A004)
+Nivel de Riesgo: 42 (Crítico)
+Probabilidad: 2/5
+Impacto: 3/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fallo de Hardware' sobre el activo
+'Portal Web Público'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R040
+--------------------------------------------------------------------------------
+Activo Afectado: Personal TI Especializado (ACT010)
+Amenaza: Fallo de Hardware (A004)
+Nivel de Riesgo: 80 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fallo de Hardware' sobre el activo
+'Personal TI Especializado'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R041
+--------------------------------------------------------------------------------
+Activo Afectado: Servidor de Base de Datos Principal (ACT001)
+Amenaza: Error Humano (A005)
+Nivel de Riesgo: 144 (Crítico)
+Probabilidad: 4/5
+Impacto: 4/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Error Humano' sobre el activo
+'Servidor de Base de Datos Principal'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R042
+--------------------------------------------------------------------------------
+Activo Afectado: Base de Datos de Clientes (ACT002)
+Amenaza: Error Humano (A005)
+Nivel de Riesgo: 144 (Crítico)
+Probabilidad: 4/5
+Impacto: 4/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Error Humano' sobre el activo
+'Base de Datos de Clientes'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R043
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema ERP (ACT003)
+Amenaza: Error Humano (A005)
+Nivel de Riesgo: 144 (Crítico)
+Probabilidad: 4/5
+Impacto: 4/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Error Humano' sobre el activo
+'Sistema ERP'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R044
+--------------------------------------------------------------------------------
+Activo Afectado: Red Corporativa (ACT004)
+Amenaza: Error Humano (A005)
+Nivel de Riesgo: 96 (Crítico)
+Probabilidad: 4/5
+Impacto: 3/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Error Humano' sobre el activo
+'Red Corporativa'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R045
+--------------------------------------------------------------------------------
+Activo Afectado: Correo Electrónico Corporativo (ACT005)
+Amenaza: Error Humano (A005)
+Nivel de Riesgo: 84 (Crítico)
+Probabilidad: 4/5
+Impacto: 3/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Error Humano' sobre el activo
+'Correo Electrónico Corporativo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R046
+--------------------------------------------------------------------------------
+Activo Afectado: Estaciones de Trabajo (ACT006)
+Amenaza: Error Humano (A005)
+Nivel de Riesgo: 48 (Crítico)
+Probabilidad: 4/5
+Impacto: 2/5
+Valor CIA del Activo: 6/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Error Humano' sobre el activo
+'Estaciones de Trabajo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R047
+--------------------------------------------------------------------------------
+Activo Afectado: Documentación Técnica (ACT007)
+Amenaza: Error Humano (A005)
+Nivel de Riesgo: 56 (Crítico)
+Probabilidad: 4/5
+Impacto: 2/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Error Humano' sobre el activo
+'Documentación Técnica'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R048
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema de Respaldos (ACT008)
+Amenaza: Error Humano (A005)
+Nivel de Riesgo: 96 (Crítico)
+Probabilidad: 4/5
+Impacto: 3/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Error Humano' sobre el activo
+'Sistema de Respaldos'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R049
+--------------------------------------------------------------------------------
+Activo Afectado: Portal Web Público (ACT009)
+Amenaza: Error Humano (A005)
+Nivel de Riesgo: 56 (Crítico)
+Probabilidad: 4/5
+Impacto: 2/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Error Humano' sobre el activo
+'Portal Web Público'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R050
+--------------------------------------------------------------------------------
+Activo Afectado: Personal TI Especializado (ACT010)
+Amenaza: Error Humano (A005)
+Nivel de Riesgo: 128 (Crítico)
+Probabilidad: 4/5
+Impacto: 4/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Error Humano' sobre el activo
+'Personal TI Especializado'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R051
+--------------------------------------------------------------------------------
+Activo Afectado: Servidor de Base de Datos Principal (ACT001)
+Amenaza: Denegación de Servicio (DoS) (A006)
+Nivel de Riesgo: 135 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Denegación de Servicio (DoS)' sobre el activo
+'Servidor de Base de Datos Principal'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R052
+--------------------------------------------------------------------------------
+Activo Afectado: Base de Datos de Clientes (ACT002)
+Amenaza: Denegación de Servicio (DoS) (A006)
+Nivel de Riesgo: 135 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Denegación de Servicio (DoS)' sobre el activo
+'Base de Datos de Clientes'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R053
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema ERP (ACT003)
+Amenaza: Denegación de Servicio (DoS) (A006)
+Nivel de Riesgo: 135 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Denegación de Servicio (DoS)' sobre el activo
+'Sistema ERP'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R054
+--------------------------------------------------------------------------------
+Activo Afectado: Red Corporativa (ACT004)
+Amenaza: Denegación de Servicio (DoS) (A006)
+Nivel de Riesgo: 96 (Crítico)
+Probabilidad: 3/5
+Impacto: 4/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Denegación de Servicio (DoS)' sobre el activo
+'Red Corporativa'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R055
+--------------------------------------------------------------------------------
+Activo Afectado: Correo Electrónico Corporativo (ACT005)
+Amenaza: Denegación de Servicio (DoS) (A006)
+Nivel de Riesgo: 84 (Crítico)
+Probabilidad: 3/5
+Impacto: 4/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Denegación de Servicio (DoS)' sobre el activo
+'Correo Electrónico Corporativo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R056
+--------------------------------------------------------------------------------
+Activo Afectado: Estaciones de Trabajo (ACT006)
+Amenaza: Denegación de Servicio (DoS) (A006)
+Nivel de Riesgo: 54 (Crítico)
+Probabilidad: 3/5
+Impacto: 3/5
+Valor CIA del Activo: 6/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Denegación de Servicio (DoS)' sobre el activo
+'Estaciones de Trabajo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R057
+--------------------------------------------------------------------------------
+Activo Afectado: Documentación Técnica (ACT007)
+Amenaza: Denegación de Servicio (DoS) (A006)
+Nivel de Riesgo: 63 (Crítico)
+Probabilidad: 3/5
+Impacto: 3/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Denegación de Servicio (DoS)' sobre el activo
+'Documentación Técnica'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R058
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema de Respaldos (ACT008)
+Amenaza: Denegación de Servicio (DoS) (A006)
+Nivel de Riesgo: 96 (Crítico)
+Probabilidad: 3/5
+Impacto: 4/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Denegación de Servicio (DoS)' sobre el activo
+'Sistema de Respaldos'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R059
+--------------------------------------------------------------------------------
+Activo Afectado: Portal Web Público (ACT009)
+Amenaza: Denegación de Servicio (DoS) (A006)
+Nivel de Riesgo: 63 (Crítico)
+Probabilidad: 3/5
+Impacto: 3/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Denegación de Servicio (DoS)' sobre el activo
+'Portal Web Público'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R060
+--------------------------------------------------------------------------------
+Activo Afectado: Personal TI Especializado (ACT010)
+Amenaza: Denegación de Servicio (DoS) (A006)
+Nivel de Riesgo: 120 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Denegación de Servicio (DoS)' sobre el activo
+'Personal TI Especializado'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R061
+--------------------------------------------------------------------------------
+Activo Afectado: Servidor de Base de Datos Principal (ACT001)
+Amenaza: Fuga de Información (A007)
+Nivel de Riesgo: 135 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fuga de Información' sobre el activo
+'Servidor de Base de Datos Principal'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R062
+--------------------------------------------------------------------------------
+Activo Afectado: Base de Datos de Clientes (ACT002)
+Amenaza: Fuga de Información (A007)
+Nivel de Riesgo: 135 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fuga de Información' sobre el activo
+'Base de Datos de Clientes'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R063
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema ERP (ACT003)
+Amenaza: Fuga de Información (A007)
+Nivel de Riesgo: 135 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fuga de Información' sobre el activo
+'Sistema ERP'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R064
+--------------------------------------------------------------------------------
+Activo Afectado: Red Corporativa (ACT004)
+Amenaza: Fuga de Información (A007)
+Nivel de Riesgo: 96 (Crítico)
+Probabilidad: 3/5
+Impacto: 4/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fuga de Información' sobre el activo
+'Red Corporativa'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R065
+--------------------------------------------------------------------------------
+Activo Afectado: Correo Electrónico Corporativo (ACT005)
+Amenaza: Fuga de Información (A007)
+Nivel de Riesgo: 84 (Crítico)
+Probabilidad: 3/5
+Impacto: 4/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fuga de Información' sobre el activo
+'Correo Electrónico Corporativo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R066
+--------------------------------------------------------------------------------
+Activo Afectado: Estaciones de Trabajo (ACT006)
+Amenaza: Fuga de Información (A007)
+Nivel de Riesgo: 54 (Crítico)
+Probabilidad: 3/5
+Impacto: 3/5
+Valor CIA del Activo: 6/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fuga de Información' sobre el activo
+'Estaciones de Trabajo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R067
+--------------------------------------------------------------------------------
+Activo Afectado: Documentación Técnica (ACT007)
+Amenaza: Fuga de Información (A007)
+Nivel de Riesgo: 63 (Crítico)
+Probabilidad: 3/5
+Impacto: 3/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fuga de Información' sobre el activo
+'Documentación Técnica'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R068
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema de Respaldos (ACT008)
+Amenaza: Fuga de Información (A007)
+Nivel de Riesgo: 96 (Crítico)
+Probabilidad: 3/5
+Impacto: 4/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fuga de Información' sobre el activo
+'Sistema de Respaldos'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R069
+--------------------------------------------------------------------------------
+Activo Afectado: Portal Web Público (ACT009)
+Amenaza: Fuga de Información (A007)
+Nivel de Riesgo: 63 (Crítico)
+Probabilidad: 3/5
+Impacto: 3/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fuga de Información' sobre el activo
+'Portal Web Público'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R070
+--------------------------------------------------------------------------------
+Activo Afectado: Personal TI Especializado (ACT010)
+Amenaza: Fuga de Información (A007)
+Nivel de Riesgo: 120 (Crítico)
+Probabilidad: 3/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Fuga de Información' sobre el activo
+'Personal TI Especializado'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R071
+--------------------------------------------------------------------------------
+Activo Afectado: Servidor de Base de Datos Principal (ACT001)
+Amenaza: Interrupción de Servicios Públicos (A008)
+Nivel de Riesgo: 90 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Interrupción de Servicios Públicos' sobre el activo
+'Servidor de Base de Datos Principal'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R072
+--------------------------------------------------------------------------------
+Activo Afectado: Base de Datos de Clientes (ACT002)
+Amenaza: Interrupción de Servicios Públicos (A008)
+Nivel de Riesgo: 90 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Interrupción de Servicios Públicos' sobre el activo
+'Base de Datos de Clientes'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R073
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema ERP (ACT003)
+Amenaza: Interrupción de Servicios Públicos (A008)
+Nivel de Riesgo: 90 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Interrupción de Servicios Públicos' sobre el activo
+'Sistema ERP'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R074
+--------------------------------------------------------------------------------
+Activo Afectado: Red Corporativa (ACT004)
+Amenaza: Interrupción de Servicios Públicos (A008)
+Nivel de Riesgo: 64 (Crítico)
+Probabilidad: 2/5
+Impacto: 4/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Interrupción de Servicios Públicos' sobre el activo
+'Red Corporativa'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R075
+--------------------------------------------------------------------------------
+Activo Afectado: Correo Electrónico Corporativo (ACT005)
+Amenaza: Interrupción de Servicios Públicos (A008)
+Nivel de Riesgo: 56 (Crítico)
+Probabilidad: 2/5
+Impacto: 4/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Interrupción de Servicios Públicos' sobre el activo
+'Correo Electrónico Corporativo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R076
+--------------------------------------------------------------------------------
+Activo Afectado: Estaciones de Trabajo (ACT006)
+Amenaza: Interrupción de Servicios Públicos (A008)
+Nivel de Riesgo: 36 (Crítico)
+Probabilidad: 2/5
+Impacto: 3/5
+Valor CIA del Activo: 6/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Interrupción de Servicios Públicos' sobre el activo
+'Estaciones de Trabajo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R077
+--------------------------------------------------------------------------------
+Activo Afectado: Documentación Técnica (ACT007)
+Amenaza: Interrupción de Servicios Públicos (A008)
+Nivel de Riesgo: 42 (Crítico)
+Probabilidad: 2/5
+Impacto: 3/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Interrupción de Servicios Públicos' sobre el activo
+'Documentación Técnica'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R078
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema de Respaldos (ACT008)
+Amenaza: Interrupción de Servicios Públicos (A008)
+Nivel de Riesgo: 64 (Crítico)
+Probabilidad: 2/5
+Impacto: 4/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Interrupción de Servicios Públicos' sobre el activo
+'Sistema de Respaldos'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R079
+--------------------------------------------------------------------------------
+Activo Afectado: Portal Web Público (ACT009)
+Amenaza: Interrupción de Servicios Públicos (A008)
+Nivel de Riesgo: 42 (Crítico)
+Probabilidad: 2/5
+Impacto: 3/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Interrupción de Servicios Públicos' sobre el activo
+'Portal Web Público'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R080
+--------------------------------------------------------------------------------
+Activo Afectado: Personal TI Especializado (ACT010)
+Amenaza: Interrupción de Servicios Públicos (A008)
+Nivel de Riesgo: 80 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Interrupción de Servicios Públicos' sobre el activo
+'Personal TI Especializado'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R081
+--------------------------------------------------------------------------------
+Activo Afectado: Servidor de Base de Datos Principal (ACT001)
+Amenaza: Desastre Natural (A009)
+Nivel de Riesgo: 45 (Crítico)
+Probabilidad: 1/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Desastre Natural' sobre el activo
+'Servidor de Base de Datos Principal'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R082
+--------------------------------------------------------------------------------
+Activo Afectado: Base de Datos de Clientes (ACT002)
+Amenaza: Desastre Natural (A009)
+Nivel de Riesgo: 45 (Crítico)
+Probabilidad: 1/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Desastre Natural' sobre el activo
+'Base de Datos de Clientes'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R083
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema ERP (ACT003)
+Amenaza: Desastre Natural (A009)
+Nivel de Riesgo: 45 (Crítico)
+Probabilidad: 1/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Desastre Natural' sobre el activo
+'Sistema ERP'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R084
+--------------------------------------------------------------------------------
+Activo Afectado: Red Corporativa (ACT004)
+Amenaza: Desastre Natural (A009)
+Nivel de Riesgo: 40 (Crítico)
+Probabilidad: 1/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Desastre Natural' sobre el activo
+'Red Corporativa'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R085
+--------------------------------------------------------------------------------
+Activo Afectado: Correo Electrónico Corporativo (ACT005)
+Amenaza: Desastre Natural (A009)
+Nivel de Riesgo: 35 (Crítico)
+Probabilidad: 1/5
+Impacto: 5/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Desastre Natural' sobre el activo
+'Correo Electrónico Corporativo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R086
+--------------------------------------------------------------------------------
+Activo Afectado: Estaciones de Trabajo (ACT006)
+Amenaza: Desastre Natural (A009)
+Nivel de Riesgo: 30 (Crítico)
+Probabilidad: 1/5
+Impacto: 5/5
+Valor CIA del Activo: 6/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Desastre Natural' sobre el activo
+'Estaciones de Trabajo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R087
+--------------------------------------------------------------------------------
+Activo Afectado: Documentación Técnica (ACT007)
+Amenaza: Desastre Natural (A009)
+Nivel de Riesgo: 35 (Crítico)
+Probabilidad: 1/5
+Impacto: 5/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Desastre Natural' sobre el activo
+'Documentación Técnica'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R088
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema de Respaldos (ACT008)
+Amenaza: Desastre Natural (A009)
+Nivel de Riesgo: 40 (Crítico)
+Probabilidad: 1/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Desastre Natural' sobre el activo
+'Sistema de Respaldos'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R089
+--------------------------------------------------------------------------------
+Activo Afectado: Portal Web Público (ACT009)
+Amenaza: Desastre Natural (A009)
+Nivel de Riesgo: 35 (Crítico)
+Probabilidad: 1/5
+Impacto: 5/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Desastre Natural' sobre el activo
+'Portal Web Público'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R090
+--------------------------------------------------------------------------------
+Activo Afectado: Personal TI Especializado (ACT010)
+Amenaza: Desastre Natural (A009)
+Nivel de Riesgo: 40 (Crítico)
+Probabilidad: 1/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Desastre Natural' sobre el activo
+'Personal TI Especializado'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R091
+--------------------------------------------------------------------------------
+Activo Afectado: Servidor de Base de Datos Principal (ACT001)
+Amenaza: Insider Threat (A010)
+Nivel de Riesgo: 90 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Insider Threat' sobre el activo
+'Servidor de Base de Datos Principal'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R092
+--------------------------------------------------------------------------------
+Activo Afectado: Base de Datos de Clientes (ACT002)
+Amenaza: Insider Threat (A010)
+Nivel de Riesgo: 90 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Insider Threat' sobre el activo
+'Base de Datos de Clientes'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R093
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema ERP (ACT003)
+Amenaza: Insider Threat (A010)
+Nivel de Riesgo: 90 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 9/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Insider Threat' sobre el activo
+'Sistema ERP'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R094
+--------------------------------------------------------------------------------
+Activo Afectado: Red Corporativa (ACT004)
+Amenaza: Insider Threat (A010)
+Nivel de Riesgo: 80 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Insider Threat' sobre el activo
+'Red Corporativa'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R095
+--------------------------------------------------------------------------------
+Activo Afectado: Correo Electrónico Corporativo (ACT005)
+Amenaza: Insider Threat (A010)
+Nivel de Riesgo: 70 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Insider Threat' sobre el activo
+'Correo Electrónico Corporativo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R096
+--------------------------------------------------------------------------------
+Activo Afectado: Estaciones de Trabajo (ACT006)
+Amenaza: Insider Threat (A010)
+Nivel de Riesgo: 48 (Crítico)
+Probabilidad: 2/5
+Impacto: 4/5
+Valor CIA del Activo: 6/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Insider Threat' sobre el activo
+'Estaciones de Trabajo'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R097
+--------------------------------------------------------------------------------
+Activo Afectado: Documentación Técnica (ACT007)
+Amenaza: Insider Threat (A010)
+Nivel de Riesgo: 56 (Crítico)
+Probabilidad: 2/5
+Impacto: 4/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Insider Threat' sobre el activo
+'Documentación Técnica'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R098
+--------------------------------------------------------------------------------
+Activo Afectado: Sistema de Respaldos (ACT008)
+Amenaza: Insider Threat (A010)
+Nivel de Riesgo: 80 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Insider Threat' sobre el activo
+'Sistema de Respaldos'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R099
+--------------------------------------------------------------------------------
+Activo Afectado: Portal Web Público (ACT009)
+Amenaza: Insider Threat (A010)
+Nivel de Riesgo: 56 (Crítico)
+Probabilidad: 2/5
+Impacto: 4/5
+Valor CIA del Activo: 7/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Insider Threat' sobre el activo
+'Portal Web Público'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
+REQUERIMIENTO R100
+--------------------------------------------------------------------------------
+Activo Afectado: Personal TI Especializado (ACT010)
+Amenaza: Insider Threat (A010)
+Nivel de Riesgo: 80 (Crítico)
+Probabilidad: 2/5
+Impacto: 5/5
+Valor CIA del Activo: 8/9
+
+REQUERIMIENTO:
+Se requiere implementar controles para mitigar el riesgo de
+'Insider Threat' sobre el activo
+'Personal TI Especializado'.
+
+ACCIONES RECOMENDADAS:
+- Evaluar controles existentes
+- Identificar controles ISO 27001 Anexo A aplicables
+- Definir plan de implementación
+- Establecer indicadores de efectividad
+- Definir responsables y cronograma
+
+================================================================================
+
