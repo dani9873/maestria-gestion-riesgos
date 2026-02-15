@@ -1,0 +1,359 @@
+================================================================================
+DECLARACIÓN DE APLICABILIDAD (SoA)
+Statement of Applicability - ISO/IEC 27001:2022
+================================================================================
+
+Fecha de generación: 2026-02-15 17:44:30
+Organización: [Nombre de la Organización]
+Alcance: Gestión de Riesgos de Seguridad de la Información
+
+Total de controles aplicables: 30
+
+
+================================================================================
+CATEGORÍA: FÍSICO
+================================================================================
+
+Control: A.7.10 - Medios de almacenamiento
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 10 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Fuga de Información
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.7.13 - Protección de equipos de energía
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Interrupción de Servicios Públicos
+  - Fallo de Hardware
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.7.2 - Controles de acceso físico
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 10 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Acceso No Autorizado
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.7.4 - Monitoreo de seguridad física
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 10 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Acceso No Autorizado
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.7.7 - Escritorio y pantalla limpios
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 10 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Fuga de Información
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+
+================================================================================
+CATEGORÍA: ORGANIZACIONAL
+================================================================================
+
+Control: A.5.1 - Políticas de seguridad de la información
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 30 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Error Humano
+  - Acceso No Autorizado
+  - Insider Threat
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.5.2 - Roles y responsabilidades de seguridad
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Error Humano
+  - Insider Threat
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.5.23 - Seguridad de la información en el uso de servicios en la nube
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Acceso No Autorizado
+  - Fuga de Información
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.5.7 - Inteligencia de amenazas
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 30 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Ataque de Phishing
+  - Malware/Ransomware
+  - Acceso No Autorizado
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+
+================================================================================
+CATEGORÍA: PERSONAS
+================================================================================
+
+Control: A.6.1 - Investigación de antecedentes
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Fuga de Información
+  - Insider Threat
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.6.2 - Términos y condiciones de empleo
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Fuga de Información
+  - Insider Threat
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.6.3 - Concienciación, educación y capacitación
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Ataque de Phishing
+  - Error Humano
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+
+================================================================================
+CATEGORÍA: TECNOLÓGICO
+================================================================================
+
+Control: A.8.1 - Dispositivos de punto final del usuario
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Malware/Ransomware
+  - Acceso No Autorizado
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.11 - Enmascaramiento de datos
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 10 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Fuga de Información
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.12 - Prevención de fuga de datos
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 10 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Fuga de Información
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.13 - Respaldo de información
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 30 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Malware/Ransomware
+  - Fallo de Hardware
+  - Desastre Natural
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.14 - Redundancia de instalaciones de procesamiento de información
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 30 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Denegación de Servicio (DoS)
+  - Interrupción de Servicios Públicos
+  - Fallo de Hardware
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.15 - Registro
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 30 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Acceso No Autorizado
+  - Fuga de Información
+  - Insider Threat
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.16 - Actividades de monitoreo
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 30 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Malware/Ransomware
+  - Acceso No Autorizado
+  - Denegación de Servicio (DoS)
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.2 - Derechos de acceso privilegiados
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Acceso No Autorizado
+  - Insider Threat
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.20 - Seguridad de redes
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Acceso No Autorizado
+  - Denegación de Servicio (DoS)
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.23 - Filtrado web
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Ataque de Phishing
+  - Malware/Ransomware
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.24 - Uso de criptografía
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Acceso No Autorizado
+  - Fuga de Información
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.28 - Codificación segura
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 10 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Acceso No Autorizado
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.3 - Restricción de acceso a la información
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Acceso No Autorizado
+  - Fuga de Información
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.31 - Separación de ambientes de desarrollo, prueba y producción
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Error Humano
+  - Fuga de Información
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.5 - Autenticación segura
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Ataque de Phishing
+  - Acceso No Autorizado
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.7 - Protección contra malware
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 10 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Malware/Ransomware
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.8 - Gestión de vulnerabilidades técnicas
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Malware/Ransomware
+  - Acceso No Autorizado
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+
+Control: A.8.9 - Gestión de configuración
+--------------------------------------------------------------------------------
+Aplicabilidad: SÍ
+Frecuencia de uso: 20 riesgo(s)
+Justificación: Necesario para mitigar:
+  - Error Humano
+  - Acceso No Autorizado
+Estado de implementación: [PENDIENTE/EN PROCESO/IMPLEMENTADO]
+Responsable: [A definir]
+Fecha objetivo: [A definir]
+

@@ -1,0 +1,31 @@
+control_id,control_nombre,control_categoria,frecuencia
+A.7.10,Medios de almacenamiento,Físico,10
+A.7.13,Protección de equipos de energía,Físico,20
+A.7.2,Controles de acceso físico,Físico,10
+A.7.4,Monitoreo de seguridad física,Físico,10
+A.7.7,Escritorio y pantalla limpios,Físico,10
+A.5.1,Políticas de seguridad de la información,Organizacional,30
+A.5.2,Roles y responsabilidades de seguridad,Organizacional,20
+A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,20
+A.5.7,Inteligencia de amenazas,Organizacional,30
+A.6.1,Investigación de antecedentes,Personas,20
+A.6.2,Términos y condiciones de empleo,Personas,20
+A.6.3,"Concienciación, educación y capacitación",Personas,20
+A.8.1,Dispositivos de punto final del usuario,Tecnológico,20
+A.8.11,Enmascaramiento de datos,Tecnológico,10
+A.8.12,Prevención de fuga de datos,Tecnológico,10
+A.8.13,Respaldo de información,Tecnológico,30
+A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,30
+A.8.15,Registro,Tecnológico,30
+A.8.16,Actividades de monitoreo,Tecnológico,30
+A.8.2,Derechos de acceso privilegiados,Tecnológico,20
+A.8.20,Seguridad de redes,Tecnológico,20
+A.8.23,Filtrado web,Tecnológico,20
+A.8.24,Uso de criptografía,Tecnológico,20
+A.8.28,Codificación segura,Tecnológico,10
+A.8.3,Restricción de acceso a la información,Tecnológico,20
+A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,20
+A.8.5,Autenticación segura,Tecnológico,20
+A.8.7,Protección contra malware,Tecnológico,10
+A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,20
+A.8.9,Gestión de configuración,Tecnológico,20

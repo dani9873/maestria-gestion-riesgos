@@ -1,0 +1,244 @@
+{
+    "controles": [
+        {
+            "id": "A.5.1",
+            "nombre": "Políticas de seguridad de la información",
+            "categoria": "Organizacional",
+            "descripcion": "Conjunto de políticas para la seguridad de la información",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Phishing", "Error Humano", "Insider Threat", "Acceso No Autorizado"]
+        },
+        {
+            "id": "A.5.2",
+            "nombre": "Roles y responsabilidades de seguridad",
+            "categoria": "Organizacional",
+            "descripcion": "Asignación de responsabilidades de seguridad",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Error Humano", "Insider Threat"]
+        },
+        {
+            "id": "A.5.7",
+            "nombre": "Inteligencia de amenazas",
+            "categoria": "Organizacional",
+            "descripcion": "Recopilación y análisis de información sobre amenazas",
+            "tipo_control": "Detectivo",
+            "aplicable_a": ["Malware/Ransomware", "Ataque de Phishing", "Acceso No Autorizado"]
+        },
+        {
+            "id": "A.5.23",
+            "nombre": "Seguridad de la información en el uso de servicios en la nube",
+            "categoria": "Organizacional",
+            "descripcion": "Gestión de seguridad para servicios cloud",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Acceso No Autorizado", "Fuga de Información"]
+        },
+        {
+            "id": "A.6.1",
+            "nombre": "Investigación de antecedentes",
+            "categoria": "Personas",
+            "descripcion": "Verificación de antecedentes de empleados",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Insider Threat", "Fuga de Información"]
+        },
+        {
+            "id": "A.6.2",
+            "nombre": "Términos y condiciones de empleo",
+            "categoria": "Personas",
+            "descripcion": "Acuerdos de confidencialidad y responsabilidades",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Fuga de Información", "Insider Threat"]
+        },
+        {
+            "id": "A.6.3",
+            "nombre": "Concienciación, educación y capacitación",
+            "categoria": "Personas",
+            "descripcion": "Programas de formación en seguridad",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Ataque de Phishing", "Error Humano", "Ingeniería Social"]
+        },
+        {
+            "id": "A.7.2",
+            "nombre": "Controles de acceso físico",
+            "categoria": "Físico",
+            "descripcion": "Restricción de acceso a áreas seguras",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Acceso No Autorizado"]
+        },
+        {
+            "id": "A.7.4",
+            "nombre": "Monitoreo de seguridad física",
+            "categoria": "Físico",
+            "descripcion": "Vigilancia y alarmas",
+            "tipo_control": "Detectivo",
+            "aplicable_a": ["Acceso No Autorizado"]
+        },
+        {
+            "id": "A.7.7",
+            "nombre": "Escritorio y pantalla limpios",
+            "categoria": "Físico",
+            "descripcion": "Protección de información sensible en espacios de trabajo",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Fuga de Información"]
+        },
+        {
+            "id": "A.7.10",
+            "nombre": "Medios de almacenamiento",
+            "categoria": "Físico",
+            "descripcion": "Gestión segura de medios de almacenamiento",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Fuga de Información"]
+        },
+        {
+            "id": "A.7.13",
+            "nombre": "Protección de equipos de energía",
+            "categoria": "Físico",
+            "descripcion": "UPS y sistemas de respaldo energético",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Interrupción de Servicios Públicos", "Fallo de Hardware"]
+        },
+        {
+            "id": "A.8.1",
+            "nombre": "Dispositivos de punto final del usuario",
+            "categoria": "Tecnológico",
+            "descripcion": "Protección de dispositivos de usuario",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Malware/Ransomware", "Acceso No Autorizado"]
+        },
+        {
+            "id": "A.8.2",
+            "nombre": "Derechos de acceso privilegiados",
+            "categoria": "Tecnológico",
+            "descripcion": "Control de cuentas administrativas",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Acceso No Autorizado", "Insider Threat"]
+        },
+        {
+            "id": "A.8.3",
+            "nombre": "Restricción de acceso a la información",
+            "categoria": "Tecnológico",
+            "descripcion": "Control de acceso basado en roles",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Acceso No Autorizado", "Fuga de Información"]
+        },
+        {
+            "id": "A.8.5",
+            "nombre": "Autenticación segura",
+            "categoria": "Tecnológico",
+            "descripcion": "Uso de autenticación multifactor",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Acceso No Autorizado", "Ataque de Phishing"]
+        },
+        {
+            "id": "A.8.7",
+            "nombre": "Protección contra malware",
+            "categoria": "Tecnológico",
+            "descripcion": "Antivirus y sistemas anti-malware",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Malware/Ransomware"]
+        },
+        {
+            "id": "A.8.8",
+            "nombre": "Gestión de vulnerabilidades técnicas",
+            "categoria": "Tecnológico",
+            "descripcion": "Parcheo y actualización de sistemas",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Acceso No Autorizado", "Malware/Ransomware"]
+        },
+        {
+            "id": "A.8.9",
+            "nombre": "Gestión de configuración",
+            "categoria": "Tecnológico",
+            "descripcion": "Control de configuraciones de seguridad",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Error Humano", "Acceso No Autorizado"]
+        },
+        {
+            "id": "A.8.11",
+            "nombre": "Enmascaramiento de datos",
+            "categoria": "Tecnológico",
+            "descripcion": "Protección de datos sensibles en pruebas",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Fuga de Información"]
+        },
+        {
+            "id": "A.8.12",
+            "nombre": "Prevención de fuga de datos",
+            "categoria": "Tecnológico",
+            "descripcion": "Sistemas DLP",
+            "tipo_control": "Preventivo/Detectivo",
+            "aplicable_a": ["Fuga de Información"]
+        },
+        {
+            "id": "A.8.13",
+            "nombre": "Respaldo de información",
+            "categoria": "Tecnológico",
+            "descripcion": "Copias de seguridad regulares",
+            "tipo_control": "Correctivo",
+            "aplicable_a": ["Malware/Ransomware", "Fallo de Hardware", "Desastre Natural"]
+        },
+        {
+            "id": "A.8.14",
+            "nombre": "Redundancia de instalaciones de procesamiento de información",
+            "categoria": "Tecnológico",
+            "descripcion": "Sistemas redundantes y alta disponibilidad",
+            "tipo_control": "Correctivo",
+            "aplicable_a": ["Fallo de Hardware", "Denegación de Servicio (DoS)", "Interrupción de Servicios Públicos"]
+        },
+        {
+            "id": "A.8.15",
+            "nombre": "Registro",
+            "categoria": "Tecnológico",
+            "descripcion": "Registro de eventos y actividades",
+            "tipo_control": "Detectivo",
+            "aplicable_a": ["Acceso No Autorizado", "Insider Threat", "Fuga de Información"]
+        },
+        {
+            "id": "A.8.16",
+            "nombre": "Actividades de monitoreo",
+            "categoria": "Tecnológico",
+            "descripcion": "Monitoreo continuo de seguridad",
+            "tipo_control": "Detectivo",
+            "aplicable_a": ["Acceso No Autorizado", "Malware/Ransomware", "Denegación de Servicio (DoS)"]
+        },
+        {
+            "id": "A.8.20",
+            "nombre": "Seguridad de redes",
+            "categoria": "Tecnológico",
+            "descripcion": "Firewalls y segmentación de red",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Acceso No Autorizado", "Denegación de Servicio (DoS)"]
+        },
+        {
+            "id": "A.8.23",
+            "nombre": "Filtrado web",
+            "categoria": "Tecnológico",
+            "descripcion": "Control de navegación web",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Malware/Ransomware", "Ataque de Phishing"]
+        },
+        {
+            "id": "A.8.24",
+            "nombre": "Uso de criptografía",
+            "categoria": "Tecnológico",
+            "descripcion": "Cifrado de datos",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Fuga de Información", "Acceso No Autorizado"]
+        },
+        {
+            "id": "A.8.28",
+            "nombre": "Codificación segura",
+            "categoria": "Tecnológico",
+            "descripcion": "Prácticas de desarrollo seguro",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Acceso No Autorizado"]
+        },
+        {
+            "id": "A.8.31",
+            "nombre": "Separación de ambientes de desarrollo, prueba y producción",
+            "categoria": "Tecnológico",
+            "descripcion": "Segregación de entornos",
+            "tipo_control": "Preventivo",
+            "aplicable_a": ["Error Humano", "Fuga de Información"]
+        }
+    ]
+}

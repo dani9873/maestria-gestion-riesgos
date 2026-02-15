@@ -1,0 +1,581 @@
+id_riesgo,activo,amenaza,nivel_riesgo,clasificacion,control_id,control_nombre,control_categoria,control_tipo
+R001,Servidor de Base de Datos Principal,Ataque de Phishing,180,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R001,Servidor de Base de Datos Principal,Ataque de Phishing,180,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R001,Servidor de Base de Datos Principal,Ataque de Phishing,180,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R001,Servidor de Base de Datos Principal,Ataque de Phishing,180,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R002,Base de Datos de Clientes,Ataque de Phishing,180,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R002,Base de Datos de Clientes,Ataque de Phishing,180,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R002,Base de Datos de Clientes,Ataque de Phishing,180,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R002,Base de Datos de Clientes,Ataque de Phishing,180,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R003,Sistema ERP,Ataque de Phishing,180,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R003,Sistema ERP,Ataque de Phishing,180,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R003,Sistema ERP,Ataque de Phishing,180,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R003,Sistema ERP,Ataque de Phishing,180,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R004,Red Corporativa,Ataque de Phishing,160,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R004,Red Corporativa,Ataque de Phishing,160,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R004,Red Corporativa,Ataque de Phishing,160,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R004,Red Corporativa,Ataque de Phishing,160,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R008,Sistema de Respaldos,Ataque de Phishing,160,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R008,Sistema de Respaldos,Ataque de Phishing,160,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R008,Sistema de Respaldos,Ataque de Phishing,160,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R008,Sistema de Respaldos,Ataque de Phishing,160,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R010,Personal TI Especializado,Ataque de Phishing,160,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R010,Personal TI Especializado,Ataque de Phishing,160,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R010,Personal TI Especializado,Ataque de Phishing,160,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R010,Personal TI Especializado,Ataque de Phishing,160,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R043,Sistema ERP,Error Humano,144,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R043,Sistema ERP,Error Humano,144,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R043,Sistema ERP,Error Humano,144,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R043,Sistema ERP,Error Humano,144,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R043,Sistema ERP,Error Humano,144,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R042,Base de Datos de Clientes,Error Humano,144,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R042,Base de Datos de Clientes,Error Humano,144,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R042,Base de Datos de Clientes,Error Humano,144,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R042,Base de Datos de Clientes,Error Humano,144,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R042,Base de Datos de Clientes,Error Humano,144,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R041,Servidor de Base de Datos Principal,Error Humano,144,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R041,Servidor de Base de Datos Principal,Error Humano,144,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R041,Servidor de Base de Datos Principal,Error Humano,144,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R041,Servidor de Base de Datos Principal,Error Humano,144,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R041,Servidor de Base de Datos Principal,Error Humano,144,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R005,Correo Electrónico Corporativo,Ataque de Phishing,140,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R005,Correo Electrónico Corporativo,Ataque de Phishing,140,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R005,Correo Electrónico Corporativo,Ataque de Phishing,140,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R005,Correo Electrónico Corporativo,Ataque de Phishing,140,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R012,Base de Datos de Clientes,Malware/Ransomware,135,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R012,Base de Datos de Clientes,Malware/Ransomware,135,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R012,Base de Datos de Clientes,Malware/Ransomware,135,Crítico,A.8.7,Protección contra malware,Tecnológico,Preventivo
+R012,Base de Datos de Clientes,Malware/Ransomware,135,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R012,Base de Datos de Clientes,Malware/Ransomware,135,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R012,Base de Datos de Clientes,Malware/Ransomware,135,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R012,Base de Datos de Clientes,Malware/Ransomware,135,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R011,Servidor de Base de Datos Principal,Malware/Ransomware,135,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R011,Servidor de Base de Datos Principal,Malware/Ransomware,135,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R011,Servidor de Base de Datos Principal,Malware/Ransomware,135,Crítico,A.8.7,Protección contra malware,Tecnológico,Preventivo
+R011,Servidor de Base de Datos Principal,Malware/Ransomware,135,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R011,Servidor de Base de Datos Principal,Malware/Ransomware,135,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R011,Servidor de Base de Datos Principal,Malware/Ransomware,135,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R011,Servidor de Base de Datos Principal,Malware/Ransomware,135,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.7.2,Controles de acceso físico,Físico,Preventivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.7.4,Monitoreo de seguridad física,Físico,Detectivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R023,Sistema ERP,Acceso No Autorizado,135,Crítico,A.8.28,Codificación segura,Tecnológico,Preventivo
+R063,Sistema ERP,Fuga de Información,135,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R063,Sistema ERP,Fuga de Información,135,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R063,Sistema ERP,Fuga de Información,135,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R063,Sistema ERP,Fuga de Información,135,Crítico,A.7.7,Escritorio y pantalla limpios,Físico,Preventivo
+R063,Sistema ERP,Fuga de Información,135,Crítico,A.7.10,Medios de almacenamiento,Físico,Preventivo
+R063,Sistema ERP,Fuga de Información,135,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R063,Sistema ERP,Fuga de Información,135,Crítico,A.8.11,Enmascaramiento de datos,Tecnológico,Preventivo
+R063,Sistema ERP,Fuga de Información,135,Crítico,A.8.12,Prevención de fuga de datos,Tecnológico,Preventivo/Detectivo
+R063,Sistema ERP,Fuga de Información,135,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R063,Sistema ERP,Fuga de Información,135,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R063,Sistema ERP,Fuga de Información,135,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R062,Base de Datos de Clientes,Fuga de Información,135,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R062,Base de Datos de Clientes,Fuga de Información,135,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R062,Base de Datos de Clientes,Fuga de Información,135,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R062,Base de Datos de Clientes,Fuga de Información,135,Crítico,A.7.7,Escritorio y pantalla limpios,Físico,Preventivo
+R062,Base de Datos de Clientes,Fuga de Información,135,Crítico,A.7.10,Medios de almacenamiento,Físico,Preventivo
+R062,Base de Datos de Clientes,Fuga de Información,135,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R062,Base de Datos de Clientes,Fuga de Información,135,Crítico,A.8.11,Enmascaramiento de datos,Tecnológico,Preventivo
+R062,Base de Datos de Clientes,Fuga de Información,135,Crítico,A.8.12,Prevención de fuga de datos,Tecnológico,Preventivo/Detectivo
+R062,Base de Datos de Clientes,Fuga de Información,135,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R062,Base de Datos de Clientes,Fuga de Información,135,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R062,Base de Datos de Clientes,Fuga de Información,135,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R052,Base de Datos de Clientes,Denegación de Servicio (DoS),135,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R052,Base de Datos de Clientes,Denegación de Servicio (DoS),135,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R052,Base de Datos de Clientes,Denegación de Servicio (DoS),135,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R051,Servidor de Base de Datos Principal,Denegación de Servicio (DoS),135,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R051,Servidor de Base de Datos Principal,Denegación de Servicio (DoS),135,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R051,Servidor de Base de Datos Principal,Denegación de Servicio (DoS),135,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R013,Sistema ERP,Malware/Ransomware,135,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R013,Sistema ERP,Malware/Ransomware,135,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R013,Sistema ERP,Malware/Ransomware,135,Crítico,A.8.7,Protección contra malware,Tecnológico,Preventivo
+R013,Sistema ERP,Malware/Ransomware,135,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R013,Sistema ERP,Malware/Ransomware,135,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R013,Sistema ERP,Malware/Ransomware,135,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R013,Sistema ERP,Malware/Ransomware,135,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.7.2,Controles de acceso físico,Físico,Preventivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.7.4,Monitoreo de seguridad física,Físico,Detectivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R022,Base de Datos de Clientes,Acceso No Autorizado,135,Crítico,A.8.28,Codificación segura,Tecnológico,Preventivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.7.2,Controles de acceso físico,Físico,Preventivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.7.4,Monitoreo de seguridad física,Físico,Detectivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R021,Servidor de Base de Datos Principal,Acceso No Autorizado,135,Crítico,A.8.28,Codificación segura,Tecnológico,Preventivo
+R053,Sistema ERP,Denegación de Servicio (DoS),135,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R053,Sistema ERP,Denegación de Servicio (DoS),135,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R053,Sistema ERP,Denegación de Servicio (DoS),135,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R061,Servidor de Base de Datos Principal,Fuga de Información,135,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R061,Servidor de Base de Datos Principal,Fuga de Información,135,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R061,Servidor de Base de Datos Principal,Fuga de Información,135,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R061,Servidor de Base de Datos Principal,Fuga de Información,135,Crítico,A.7.7,Escritorio y pantalla limpios,Físico,Preventivo
+R061,Servidor de Base de Datos Principal,Fuga de Información,135,Crítico,A.7.10,Medios de almacenamiento,Físico,Preventivo
+R061,Servidor de Base de Datos Principal,Fuga de Información,135,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R061,Servidor de Base de Datos Principal,Fuga de Información,135,Crítico,A.8.11,Enmascaramiento de datos,Tecnológico,Preventivo
+R061,Servidor de Base de Datos Principal,Fuga de Información,135,Crítico,A.8.12,Prevención de fuga de datos,Tecnológico,Preventivo/Detectivo
+R061,Servidor de Base de Datos Principal,Fuga de Información,135,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R061,Servidor de Base de Datos Principal,Fuga de Información,135,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R061,Servidor de Base de Datos Principal,Fuga de Información,135,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R050,Personal TI Especializado,Error Humano,128,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R050,Personal TI Especializado,Error Humano,128,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R050,Personal TI Especializado,Error Humano,128,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R050,Personal TI Especializado,Error Humano,128,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R050,Personal TI Especializado,Error Humano,128,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.7.2,Controles de acceso físico,Físico,Preventivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.7.4,Monitoreo de seguridad física,Físico,Detectivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R024,Red Corporativa,Acceso No Autorizado,120,Crítico,A.8.28,Codificación segura,Tecnológico,Preventivo
+R070,Personal TI Especializado,Fuga de Información,120,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R070,Personal TI Especializado,Fuga de Información,120,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R070,Personal TI Especializado,Fuga de Información,120,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R070,Personal TI Especializado,Fuga de Información,120,Crítico,A.7.7,Escritorio y pantalla limpios,Físico,Preventivo
+R070,Personal TI Especializado,Fuga de Información,120,Crítico,A.7.10,Medios de almacenamiento,Físico,Preventivo
+R070,Personal TI Especializado,Fuga de Información,120,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R070,Personal TI Especializado,Fuga de Información,120,Crítico,A.8.11,Enmascaramiento de datos,Tecnológico,Preventivo
+R070,Personal TI Especializado,Fuga de Información,120,Crítico,A.8.12,Prevención de fuga de datos,Tecnológico,Preventivo/Detectivo
+R070,Personal TI Especializado,Fuga de Información,120,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R070,Personal TI Especializado,Fuga de Información,120,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R070,Personal TI Especializado,Fuga de Información,120,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R060,Personal TI Especializado,Denegación de Servicio (DoS),120,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R060,Personal TI Especializado,Denegación de Servicio (DoS),120,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R060,Personal TI Especializado,Denegación de Servicio (DoS),120,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.7.2,Controles de acceso físico,Físico,Preventivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.7.4,Monitoreo de seguridad física,Físico,Detectivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R030,Personal TI Especializado,Acceso No Autorizado,120,Crítico,A.8.28,Codificación segura,Tecnológico,Preventivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.7.2,Controles de acceso físico,Físico,Preventivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.7.4,Monitoreo de seguridad física,Físico,Detectivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R028,Sistema de Respaldos,Acceso No Autorizado,120,Crítico,A.8.28,Codificación segura,Tecnológico,Preventivo
+R020,Personal TI Especializado,Malware/Ransomware,120,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R020,Personal TI Especializado,Malware/Ransomware,120,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R020,Personal TI Especializado,Malware/Ransomware,120,Crítico,A.8.7,Protección contra malware,Tecnológico,Preventivo
+R020,Personal TI Especializado,Malware/Ransomware,120,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R020,Personal TI Especializado,Malware/Ransomware,120,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R020,Personal TI Especializado,Malware/Ransomware,120,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R020,Personal TI Especializado,Malware/Ransomware,120,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R007,Documentación Técnica,Ataque de Phishing,112,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R007,Documentación Técnica,Ataque de Phishing,112,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R007,Documentación Técnica,Ataque de Phishing,112,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R007,Documentación Técnica,Ataque de Phishing,112,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R009,Portal Web Público,Ataque de Phishing,112,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R009,Portal Web Público,Ataque de Phishing,112,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R009,Portal Web Público,Ataque de Phishing,112,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R009,Portal Web Público,Ataque de Phishing,112,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.7.2,Controles de acceso físico,Físico,Preventivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.7.4,Monitoreo de seguridad física,Físico,Detectivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R025,Correo Electrónico Corporativo,Acceso No Autorizado,105,Crítico,A.8.28,Codificación segura,Tecnológico,Preventivo
+R014,Red Corporativa,Malware/Ransomware,96,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R014,Red Corporativa,Malware/Ransomware,96,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R014,Red Corporativa,Malware/Ransomware,96,Crítico,A.8.7,Protección contra malware,Tecnológico,Preventivo
+R014,Red Corporativa,Malware/Ransomware,96,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R014,Red Corporativa,Malware/Ransomware,96,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R014,Red Corporativa,Malware/Ransomware,96,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R014,Red Corporativa,Malware/Ransomware,96,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R018,Sistema de Respaldos,Malware/Ransomware,96,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R018,Sistema de Respaldos,Malware/Ransomware,96,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R018,Sistema de Respaldos,Malware/Ransomware,96,Crítico,A.8.7,Protección contra malware,Tecnológico,Preventivo
+R018,Sistema de Respaldos,Malware/Ransomware,96,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R018,Sistema de Respaldos,Malware/Ransomware,96,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R018,Sistema de Respaldos,Malware/Ransomware,96,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R018,Sistema de Respaldos,Malware/Ransomware,96,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R006,Estaciones de Trabajo,Ataque de Phishing,96,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R006,Estaciones de Trabajo,Ataque de Phishing,96,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R006,Estaciones de Trabajo,Ataque de Phishing,96,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R006,Estaciones de Trabajo,Ataque de Phishing,96,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R054,Red Corporativa,Denegación de Servicio (DoS),96,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R054,Red Corporativa,Denegación de Servicio (DoS),96,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R054,Red Corporativa,Denegación de Servicio (DoS),96,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R068,Sistema de Respaldos,Fuga de Información,96,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R068,Sistema de Respaldos,Fuga de Información,96,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R068,Sistema de Respaldos,Fuga de Información,96,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R068,Sistema de Respaldos,Fuga de Información,96,Crítico,A.7.7,Escritorio y pantalla limpios,Físico,Preventivo
+R068,Sistema de Respaldos,Fuga de Información,96,Crítico,A.7.10,Medios de almacenamiento,Físico,Preventivo
+R068,Sistema de Respaldos,Fuga de Información,96,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R068,Sistema de Respaldos,Fuga de Información,96,Crítico,A.8.11,Enmascaramiento de datos,Tecnológico,Preventivo
+R068,Sistema de Respaldos,Fuga de Información,96,Crítico,A.8.12,Prevención de fuga de datos,Tecnológico,Preventivo/Detectivo
+R068,Sistema de Respaldos,Fuga de Información,96,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R068,Sistema de Respaldos,Fuga de Información,96,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R068,Sistema de Respaldos,Fuga de Información,96,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R044,Red Corporativa,Error Humano,96,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R044,Red Corporativa,Error Humano,96,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R044,Red Corporativa,Error Humano,96,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R044,Red Corporativa,Error Humano,96,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R044,Red Corporativa,Error Humano,96,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R048,Sistema de Respaldos,Error Humano,96,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R048,Sistema de Respaldos,Error Humano,96,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R048,Sistema de Respaldos,Error Humano,96,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R048,Sistema de Respaldos,Error Humano,96,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R048,Sistema de Respaldos,Error Humano,96,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R064,Red Corporativa,Fuga de Información,96,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R064,Red Corporativa,Fuga de Información,96,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R064,Red Corporativa,Fuga de Información,96,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R064,Red Corporativa,Fuga de Información,96,Crítico,A.7.7,Escritorio y pantalla limpios,Físico,Preventivo
+R064,Red Corporativa,Fuga de Información,96,Crítico,A.7.10,Medios de almacenamiento,Físico,Preventivo
+R064,Red Corporativa,Fuga de Información,96,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R064,Red Corporativa,Fuga de Información,96,Crítico,A.8.11,Enmascaramiento de datos,Tecnológico,Preventivo
+R064,Red Corporativa,Fuga de Información,96,Crítico,A.8.12,Prevención de fuga de datos,Tecnológico,Preventivo/Detectivo
+R064,Red Corporativa,Fuga de Información,96,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R064,Red Corporativa,Fuga de Información,96,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R064,Red Corporativa,Fuga de Información,96,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R058,Sistema de Respaldos,Denegación de Servicio (DoS),96,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R058,Sistema de Respaldos,Denegación de Servicio (DoS),96,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R058,Sistema de Respaldos,Denegación de Servicio (DoS),96,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R073,Sistema ERP,Interrupción de Servicios Públicos,90,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R073,Sistema ERP,Interrupción de Servicios Públicos,90,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R093,Sistema ERP,Insider Threat,90,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R093,Sistema ERP,Insider Threat,90,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R093,Sistema ERP,Insider Threat,90,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R093,Sistema ERP,Insider Threat,90,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R093,Sistema ERP,Insider Threat,90,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R093,Sistema ERP,Insider Threat,90,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R091,Servidor de Base de Datos Principal,Insider Threat,90,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R091,Servidor de Base de Datos Principal,Insider Threat,90,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R091,Servidor de Base de Datos Principal,Insider Threat,90,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R091,Servidor de Base de Datos Principal,Insider Threat,90,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R091,Servidor de Base de Datos Principal,Insider Threat,90,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R091,Servidor de Base de Datos Principal,Insider Threat,90,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R031,Servidor de Base de Datos Principal,Fallo de Hardware,90,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R031,Servidor de Base de Datos Principal,Fallo de Hardware,90,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R031,Servidor de Base de Datos Principal,Fallo de Hardware,90,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R072,Base de Datos de Clientes,Interrupción de Servicios Públicos,90,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R072,Base de Datos de Clientes,Interrupción de Servicios Públicos,90,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R033,Sistema ERP,Fallo de Hardware,90,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R033,Sistema ERP,Fallo de Hardware,90,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R033,Sistema ERP,Fallo de Hardware,90,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R032,Base de Datos de Clientes,Fallo de Hardware,90,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R032,Base de Datos de Clientes,Fallo de Hardware,90,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R032,Base de Datos de Clientes,Fallo de Hardware,90,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R071,Servidor de Base de Datos Principal,Interrupción de Servicios Públicos,90,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R071,Servidor de Base de Datos Principal,Interrupción de Servicios Públicos,90,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R092,Base de Datos de Clientes,Insider Threat,90,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R092,Base de Datos de Clientes,Insider Threat,90,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R092,Base de Datos de Clientes,Insider Threat,90,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R092,Base de Datos de Clientes,Insider Threat,90,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R092,Base de Datos de Clientes,Insider Threat,90,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R092,Base de Datos de Clientes,Insider Threat,90,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R015,Correo Electrónico Corporativo,Malware/Ransomware,84,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R015,Correo Electrónico Corporativo,Malware/Ransomware,84,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R015,Correo Electrónico Corporativo,Malware/Ransomware,84,Crítico,A.8.7,Protección contra malware,Tecnológico,Preventivo
+R015,Correo Electrónico Corporativo,Malware/Ransomware,84,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R015,Correo Electrónico Corporativo,Malware/Ransomware,84,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R015,Correo Electrónico Corporativo,Malware/Ransomware,84,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R015,Correo Electrónico Corporativo,Malware/Ransomware,84,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.7.2,Controles de acceso físico,Físico,Preventivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.7.4,Monitoreo de seguridad física,Físico,Detectivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R029,Portal Web Público,Acceso No Autorizado,84,Crítico,A.8.28,Codificación segura,Tecnológico,Preventivo
+R055,Correo Electrónico Corporativo,Denegación de Servicio (DoS),84,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R055,Correo Electrónico Corporativo,Denegación de Servicio (DoS),84,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R055,Correo Electrónico Corporativo,Denegación de Servicio (DoS),84,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R065,Correo Electrónico Corporativo,Fuga de Información,84,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R065,Correo Electrónico Corporativo,Fuga de Información,84,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R065,Correo Electrónico Corporativo,Fuga de Información,84,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R065,Correo Electrónico Corporativo,Fuga de Información,84,Crítico,A.7.7,Escritorio y pantalla limpios,Físico,Preventivo
+R065,Correo Electrónico Corporativo,Fuga de Información,84,Crítico,A.7.10,Medios de almacenamiento,Físico,Preventivo
+R065,Correo Electrónico Corporativo,Fuga de Información,84,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R065,Correo Electrónico Corporativo,Fuga de Información,84,Crítico,A.8.11,Enmascaramiento de datos,Tecnológico,Preventivo
+R065,Correo Electrónico Corporativo,Fuga de Información,84,Crítico,A.8.12,Prevención de fuga de datos,Tecnológico,Preventivo/Detectivo
+R065,Correo Electrónico Corporativo,Fuga de Información,84,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R065,Correo Electrónico Corporativo,Fuga de Información,84,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R065,Correo Electrónico Corporativo,Fuga de Información,84,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R045,Correo Electrónico Corporativo,Error Humano,84,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R045,Correo Electrónico Corporativo,Error Humano,84,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R045,Correo Electrónico Corporativo,Error Humano,84,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R045,Correo Electrónico Corporativo,Error Humano,84,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R045,Correo Electrónico Corporativo,Error Humano,84,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.7.2,Controles de acceso físico,Físico,Preventivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.7.4,Monitoreo de seguridad física,Físico,Detectivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R027,Documentación Técnica,Acceso No Autorizado,84,Crítico,A.8.28,Codificación segura,Tecnológico,Preventivo
+R040,Personal TI Especializado,Fallo de Hardware,80,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R040,Personal TI Especializado,Fallo de Hardware,80,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R040,Personal TI Especializado,Fallo de Hardware,80,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R100,Personal TI Especializado,Insider Threat,80,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R100,Personal TI Especializado,Insider Threat,80,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R100,Personal TI Especializado,Insider Threat,80,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R100,Personal TI Especializado,Insider Threat,80,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R100,Personal TI Especializado,Insider Threat,80,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R100,Personal TI Especializado,Insider Threat,80,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R098,Sistema de Respaldos,Insider Threat,80,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R098,Sistema de Respaldos,Insider Threat,80,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R098,Sistema de Respaldos,Insider Threat,80,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R098,Sistema de Respaldos,Insider Threat,80,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R098,Sistema de Respaldos,Insider Threat,80,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R098,Sistema de Respaldos,Insider Threat,80,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R080,Personal TI Especializado,Interrupción de Servicios Públicos,80,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R080,Personal TI Especializado,Interrupción de Servicios Públicos,80,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R094,Red Corporativa,Insider Threat,80,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R094,Red Corporativa,Insider Threat,80,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R094,Red Corporativa,Insider Threat,80,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R094,Red Corporativa,Insider Threat,80,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R094,Red Corporativa,Insider Threat,80,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R094,Red Corporativa,Insider Threat,80,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.7.2,Controles de acceso físico,Físico,Preventivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.7.4,Monitoreo de seguridad física,Físico,Detectivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.8.5,Autenticación segura,Tecnológico,Preventivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R026,Estaciones de Trabajo,Acceso No Autorizado,72,Crítico,A.8.28,Codificación segura,Tecnológico,Preventivo
+R095,Correo Electrónico Corporativo,Insider Threat,70,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R095,Correo Electrónico Corporativo,Insider Threat,70,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R095,Correo Electrónico Corporativo,Insider Threat,70,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R095,Correo Electrónico Corporativo,Insider Threat,70,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R095,Correo Electrónico Corporativo,Insider Threat,70,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R095,Correo Electrónico Corporativo,Insider Threat,70,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R078,Sistema de Respaldos,Interrupción de Servicios Públicos,64,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R078,Sistema de Respaldos,Interrupción de Servicios Públicos,64,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R038,Sistema de Respaldos,Fallo de Hardware,64,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R038,Sistema de Respaldos,Fallo de Hardware,64,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R038,Sistema de Respaldos,Fallo de Hardware,64,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R034,Red Corporativa,Fallo de Hardware,64,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R034,Red Corporativa,Fallo de Hardware,64,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R034,Red Corporativa,Fallo de Hardware,64,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R074,Red Corporativa,Interrupción de Servicios Públicos,64,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R074,Red Corporativa,Interrupción de Servicios Públicos,64,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R017,Documentación Técnica,Malware/Ransomware,63,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R017,Documentación Técnica,Malware/Ransomware,63,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R017,Documentación Técnica,Malware/Ransomware,63,Crítico,A.8.7,Protección contra malware,Tecnológico,Preventivo
+R017,Documentación Técnica,Malware/Ransomware,63,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R017,Documentación Técnica,Malware/Ransomware,63,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R017,Documentación Técnica,Malware/Ransomware,63,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R017,Documentación Técnica,Malware/Ransomware,63,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R057,Documentación Técnica,Denegación de Servicio (DoS),63,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R057,Documentación Técnica,Denegación de Servicio (DoS),63,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R057,Documentación Técnica,Denegación de Servicio (DoS),63,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R067,Documentación Técnica,Fuga de Información,63,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R067,Documentación Técnica,Fuga de Información,63,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R067,Documentación Técnica,Fuga de Información,63,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R067,Documentación Técnica,Fuga de Información,63,Crítico,A.7.7,Escritorio y pantalla limpios,Físico,Preventivo
+R067,Documentación Técnica,Fuga de Información,63,Crítico,A.7.10,Medios de almacenamiento,Físico,Preventivo
+R067,Documentación Técnica,Fuga de Información,63,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R067,Documentación Técnica,Fuga de Información,63,Crítico,A.8.11,Enmascaramiento de datos,Tecnológico,Preventivo
+R067,Documentación Técnica,Fuga de Información,63,Crítico,A.8.12,Prevención de fuga de datos,Tecnológico,Preventivo/Detectivo
+R067,Documentación Técnica,Fuga de Información,63,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R067,Documentación Técnica,Fuga de Información,63,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R067,Documentación Técnica,Fuga de Información,63,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R069,Portal Web Público,Fuga de Información,63,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R069,Portal Web Público,Fuga de Información,63,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R069,Portal Web Público,Fuga de Información,63,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R069,Portal Web Público,Fuga de Información,63,Crítico,A.7.7,Escritorio y pantalla limpios,Físico,Preventivo
+R069,Portal Web Público,Fuga de Información,63,Crítico,A.7.10,Medios de almacenamiento,Físico,Preventivo
+R069,Portal Web Público,Fuga de Información,63,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R069,Portal Web Público,Fuga de Información,63,Crítico,A.8.11,Enmascaramiento de datos,Tecnológico,Preventivo
+R069,Portal Web Público,Fuga de Información,63,Crítico,A.8.12,Prevención de fuga de datos,Tecnológico,Preventivo/Detectivo
+R069,Portal Web Público,Fuga de Información,63,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R069,Portal Web Público,Fuga de Información,63,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R069,Portal Web Público,Fuga de Información,63,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R019,Portal Web Público,Malware/Ransomware,63,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R019,Portal Web Público,Malware/Ransomware,63,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R019,Portal Web Público,Malware/Ransomware,63,Crítico,A.8.7,Protección contra malware,Tecnológico,Preventivo
+R019,Portal Web Público,Malware/Ransomware,63,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R019,Portal Web Público,Malware/Ransomware,63,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R019,Portal Web Público,Malware/Ransomware,63,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R019,Portal Web Público,Malware/Ransomware,63,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R059,Portal Web Público,Denegación de Servicio (DoS),63,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R059,Portal Web Público,Denegación de Servicio (DoS),63,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R059,Portal Web Público,Denegación de Servicio (DoS),63,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R099,Portal Web Público,Insider Threat,56,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R099,Portal Web Público,Insider Threat,56,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R099,Portal Web Público,Insider Threat,56,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R099,Portal Web Público,Insider Threat,56,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R099,Portal Web Público,Insider Threat,56,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R099,Portal Web Público,Insider Threat,56,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R035,Correo Electrónico Corporativo,Fallo de Hardware,56,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R035,Correo Electrónico Corporativo,Fallo de Hardware,56,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R035,Correo Electrónico Corporativo,Fallo de Hardware,56,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R097,Documentación Técnica,Insider Threat,56,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R097,Documentación Técnica,Insider Threat,56,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R097,Documentación Técnica,Insider Threat,56,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R097,Documentación Técnica,Insider Threat,56,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R097,Documentación Técnica,Insider Threat,56,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R097,Documentación Técnica,Insider Threat,56,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R049,Portal Web Público,Error Humano,56,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R049,Portal Web Público,Error Humano,56,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R049,Portal Web Público,Error Humano,56,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R049,Portal Web Público,Error Humano,56,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R049,Portal Web Público,Error Humano,56,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R075,Correo Electrónico Corporativo,Interrupción de Servicios Públicos,56,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R075,Correo Electrónico Corporativo,Interrupción de Servicios Públicos,56,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R047,Documentación Técnica,Error Humano,56,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R047,Documentación Técnica,Error Humano,56,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R047,Documentación Técnica,Error Humano,56,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R047,Documentación Técnica,Error Humano,56,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R047,Documentación Técnica,Error Humano,56,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R016,Estaciones de Trabajo,Malware/Ransomware,54,Crítico,A.5.7,Inteligencia de amenazas,Organizacional,Detectivo
+R016,Estaciones de Trabajo,Malware/Ransomware,54,Crítico,A.8.1,Dispositivos de punto final del usuario,Tecnológico,Preventivo
+R016,Estaciones de Trabajo,Malware/Ransomware,54,Crítico,A.8.7,Protección contra malware,Tecnológico,Preventivo
+R016,Estaciones de Trabajo,Malware/Ransomware,54,Crítico,A.8.8,Gestión de vulnerabilidades técnicas,Tecnológico,Preventivo
+R016,Estaciones de Trabajo,Malware/Ransomware,54,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R016,Estaciones de Trabajo,Malware/Ransomware,54,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R016,Estaciones de Trabajo,Malware/Ransomware,54,Crítico,A.8.23,Filtrado web,Tecnológico,Preventivo
+R066,Estaciones de Trabajo,Fuga de Información,54,Crítico,A.5.23,Seguridad de la información en el uso de servicios en la nube,Organizacional,Preventivo
+R066,Estaciones de Trabajo,Fuga de Información,54,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R066,Estaciones de Trabajo,Fuga de Información,54,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R066,Estaciones de Trabajo,Fuga de Información,54,Crítico,A.7.7,Escritorio y pantalla limpios,Físico,Preventivo
+R066,Estaciones de Trabajo,Fuga de Información,54,Crítico,A.7.10,Medios de almacenamiento,Físico,Preventivo
+R066,Estaciones de Trabajo,Fuga de Información,54,Crítico,A.8.3,Restricción de acceso a la información,Tecnológico,Preventivo
+R066,Estaciones de Trabajo,Fuga de Información,54,Crítico,A.8.11,Enmascaramiento de datos,Tecnológico,Preventivo
+R066,Estaciones de Trabajo,Fuga de Información,54,Crítico,A.8.12,Prevención de fuga de datos,Tecnológico,Preventivo/Detectivo
+R066,Estaciones de Trabajo,Fuga de Información,54,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R066,Estaciones de Trabajo,Fuga de Información,54,Crítico,A.8.24,Uso de criptografía,Tecnológico,Preventivo
+R066,Estaciones de Trabajo,Fuga de Información,54,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R056,Estaciones de Trabajo,Denegación de Servicio (DoS),54,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R056,Estaciones de Trabajo,Denegación de Servicio (DoS),54,Crítico,A.8.16,Actividades de monitoreo,Tecnológico,Detectivo
+R056,Estaciones de Trabajo,Denegación de Servicio (DoS),54,Crítico,A.8.20,Seguridad de redes,Tecnológico,Preventivo
+R096,Estaciones de Trabajo,Insider Threat,48,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R096,Estaciones de Trabajo,Insider Threat,48,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R096,Estaciones de Trabajo,Insider Threat,48,Crítico,A.6.1,Investigación de antecedentes,Personas,Preventivo
+R096,Estaciones de Trabajo,Insider Threat,48,Crítico,A.6.2,Términos y condiciones de empleo,Personas,Preventivo
+R096,Estaciones de Trabajo,Insider Threat,48,Crítico,A.8.2,Derechos de acceso privilegiados,Tecnológico,Preventivo
+R096,Estaciones de Trabajo,Insider Threat,48,Crítico,A.8.15,Registro,Tecnológico,Detectivo
+R046,Estaciones de Trabajo,Error Humano,48,Crítico,A.5.1,Políticas de seguridad de la información,Organizacional,Preventivo
+R046,Estaciones de Trabajo,Error Humano,48,Crítico,A.5.2,Roles y responsabilidades de seguridad,Organizacional,Preventivo
+R046,Estaciones de Trabajo,Error Humano,48,Crítico,A.6.3,"Concienciación, educación y capacitación",Personas,Preventivo
+R046,Estaciones de Trabajo,Error Humano,48,Crítico,A.8.9,Gestión de configuración,Tecnológico,Preventivo
+R046,Estaciones de Trabajo,Error Humano,48,Crítico,A.8.31,"Separación de ambientes de desarrollo, prueba y producción",Tecnológico,Preventivo
+R081,Servidor de Base de Datos Principal,Desastre Natural,45,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R082,Base de Datos de Clientes,Desastre Natural,45,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R083,Sistema ERP,Desastre Natural,45,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R037,Documentación Técnica,Fallo de Hardware,42,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R037,Documentación Técnica,Fallo de Hardware,42,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R037,Documentación Técnica,Fallo de Hardware,42,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R077,Documentación Técnica,Interrupción de Servicios Públicos,42,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R077,Documentación Técnica,Interrupción de Servicios Públicos,42,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R039,Portal Web Público,Fallo de Hardware,42,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R039,Portal Web Público,Fallo de Hardware,42,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R039,Portal Web Público,Fallo de Hardware,42,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R079,Portal Web Público,Interrupción de Servicios Públicos,42,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R079,Portal Web Público,Interrupción de Servicios Públicos,42,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R090,Personal TI Especializado,Desastre Natural,40,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R088,Sistema de Respaldos,Desastre Natural,40,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R084,Red Corporativa,Desastre Natural,40,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R036,Estaciones de Trabajo,Fallo de Hardware,36,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R036,Estaciones de Trabajo,Fallo de Hardware,36,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R036,Estaciones de Trabajo,Fallo de Hardware,36,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R076,Estaciones de Trabajo,Interrupción de Servicios Públicos,36,Crítico,A.7.13,Protección de equipos de energía,Físico,Preventivo
+R076,Estaciones de Trabajo,Interrupción de Servicios Públicos,36,Crítico,A.8.14,Redundancia de instalaciones de procesamiento de información,Tecnológico,Correctivo
+R087,Documentación Técnica,Desastre Natural,35,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R089,Portal Web Público,Desastre Natural,35,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R085,Correo Electrónico Corporativo,Desastre Natural,35,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
+R086,Estaciones de Trabajo,Desastre Natural,30,Crítico,A.8.13,Respaldo de información,Tecnológico,Correctivo
