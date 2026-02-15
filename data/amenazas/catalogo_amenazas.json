@@ -1,0 +1,94 @@
+{
+    "amenazas": [
+        {
+            "id": "A001",
+            "nombre": "Ataque de Phishing",
+            "tipo": "Humana - Maliciosa",
+            "descripcion": "Intento de obtener información sensible mediante engaño",
+            "probabilidad": 4,
+            "categoria": "Ingeniería Social",
+            "fuente": "Externa"
+        },
+        {
+            "id": "A002",
+            "nombre": "Malware/Ransomware",
+            "tipo": "Tecnológica",
+            "descripcion": "Software malicioso que cifra información",
+            "probabilidad": 3,
+            "categoria": "Código Malicioso",
+            "fuente": "Externa"
+        },
+        {
+            "id": "A003",
+            "nombre": "Acceso No Autorizado",
+            "tipo": "Humana - Maliciosa",
+            "descripcion": "Intrusión a sistemas sin permiso",
+            "probabilidad": 3,
+            "categoria": "Acceso",
+            "fuente": "Externa/Interna"
+        },
+        {
+            "id": "A004",
+            "nombre": "Fallo de Hardware",
+            "tipo": "Tecnológica",
+            "descripcion": "Falla física de componentes críticos",
+            "probabilidad": 2,
+            "categoria": "Fallo de Equipo",
+            "fuente": "Interna"
+        },
+        {
+            "id": "A005",
+            "nombre": "Error Humano",
+            "tipo": "Humana - No Intencional",
+            "descripcion": "Errores en operación o configuración",
+            "probabilidad": 4,
+            "categoria": "Operacional",
+            "fuente": "Interna"
+        },
+        {
+            "id": "A006",
+            "nombre": "Denegación de Servicio (DoS)",
+            "tipo": "Tecnológica",
+            "descripcion": "Saturación de servicios para hacerlos inaccesibles",
+            "probabilidad": 3,
+            "categoria": "Disponibilidad",
+            "fuente": "Externa"
+        },
+        {
+            "id": "A007",
+            "nombre": "Fuga de Información",
+            "tipo": "Humana - Maliciosa/No Intencional",
+            "descripcion": "Divulgación no autorizada de información sensible",
+            "probabilidad": 3,
+            "categoria": "Confidencialidad",
+            "fuente": "Interna/Externa"
+        },
+        {
+            "id": "A008",
+            "nombre": "Interrupción de Servicios Públicos",
+            "tipo": "Ambiental",
+            "descripcion": "Corte de electricidad, agua, internet",
+            "probabilidad": 2,
+            "categoria": "Infraestructura",
+            "fuente": "Externa"
+        },
+        {
+            "id": "A009",
+            "nombre": "Desastre Natural",
+            "tipo": "Natural",
+            "descripcion": "Inundación, terremoto, incendio",
+            "probabilidad": 1,
+            "categoria": "Catastrófico",
+            "fuente": "Externa"
+        },
+        {
+            "id": "A010",
+            "nombre": "Insider Threat",
+            "tipo": "Humana - Maliciosa",
+            "descripcion": "Empleado con intenciones maliciosas",
+            "probabilidad": 2,
+            "categoria": "Interno",
+            "fuente": "Interna"
+        }
+    ]
+}

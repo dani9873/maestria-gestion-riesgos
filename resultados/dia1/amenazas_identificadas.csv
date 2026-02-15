@@ -1,0 +1,11 @@
+id,nombre,tipo,descripcion,probabilidad,categoria,fuente
+A001,Ataque de Phishing,Humana - Maliciosa,Intento de obtener información sensible mediante engaño,4,Ingeniería Social,Externa
+A002,Malware/Ransomware,Tecnológica,Software malicioso que cifra información,3,Código Malicioso,Externa
+A003,Acceso No Autorizado,Humana - Maliciosa,Intrusión a sistemas sin permiso,3,Acceso,Externa/Interna
+A004,Fallo de Hardware,Tecnológica,Falla física de componentes críticos,2,Fallo de Equipo,Interna
+A005,Error Humano,Humana - No Intencional,Errores en operación o configuración,4,Operacional,Interna
+A006,Denegación de Servicio (DoS),Tecnológica,Saturación de servicios para hacerlos inaccesibles,3,Disponibilidad,Externa
+A007,Fuga de Información,Humana - Maliciosa/No Intencional,Divulgación no autorizada de información sensible,3,Confidencialidad,Interna/Externa
+A008,Interrupción de Servicios Públicos,Ambiental,"Corte de electricidad, agua, internet",2,Infraestructura,Externa
+A009,Desastre Natural,Natural,"Inundación, terremoto, incendio",1,Catastrófico,Externa
+A010,Insider Threat,Humana - Maliciosa,Empleado con intenciones maliciosas,2,Interno,Interna
