@@ -1,0 +1,18 @@
+{
+    "proyecto": {
+        "nombre": "Integración de Gestión de Riesgos",
+        "autor": "Daniel Escobar",
+        "fecha_inicio": "2026-02-15"
+    },
+    "parametros_riesgo": {
+        "umbral_bajo": 5,
+        "umbral_medio": 10,
+        "umbral_alto": 15,
+        "umbral_critico": 20
+    },
+    "valores_cia": {
+        "confidencialidad": {"bajo": 1, "medio": 2, "alto": 3},
+        "integridad": {"bajo": 1, "medio": 2, "alto": 3},
+        "disponibilidad": {"bajo": 1, "medio": 2, "alto": 3}
+    }
+}
