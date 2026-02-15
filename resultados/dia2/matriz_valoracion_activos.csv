@@ -1,0 +1,11 @@
+id,nombre,tipo,criticidad,confidencialidad,integridad,disponibilidad,valor_cia_total,valor_cia_ponderado,valor_monetario
+ACT001,Servidor de Base de Datos Principal,Hardware,critico,alto,alto,alto,9,100.0,15000
+ACT002,Base de Datos de Clientes,Información,critico,alto,alto,alto,9,100.0,50000
+ACT003,Sistema ERP,Software,critico,alto,alto,alto,9,100.0,30000
+ACT004,Red Corporativa,Servicio,alto,medio,alto,alto,8,88.89,20000
+ACT010,Personal TI Especializado,Personas,critico,medio,alto,alto,8,88.89,80000
+ACT008,Sistema de Respaldos,Hardware,alto,alto,alto,medio,8,88.89,8000
+ACT007,Documentación Técnica,Información,medio,medio,alto,medio,7,77.78,10000
+ACT005,Correo Electrónico Corporativo,Servicio,alto,medio,medio,alto,7,77.78,5000
+ACT009,Portal Web Público,Software,medio,bajo,alto,alto,7,77.78,12000
+ACT006,Estaciones de Trabajo,Hardware,medio,medio,medio,medio,6,66.67,1000
