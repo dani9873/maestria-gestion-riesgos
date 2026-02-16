@@ -51,7 +51,7 @@ python3 scripts/dia4_controles_consolidacion.py
 ```
 
 ## Autor
-Tu Nombre - Maestría en Seguridad de la Información
+Daniel Escobar - Maestría en Seguridad de la Información
 
 ## Fecha
 Febrero 2026
